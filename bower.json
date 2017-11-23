@@ -1,0 +1,17 @@
+{
+  "name": "svensson",
+  "description": "A WordPress theme for Nate Svensson.",
+  "main": "gulpfile.js",
+  "authors": [
+    "Nate Svensson"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/nate-braintwister/Svensson-WP-Template",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
